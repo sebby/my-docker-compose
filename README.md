@@ -1,2 +1,3 @@
-# my-docker-compose
-Example docker-compose with docker-sync
+
+# Le projet est hébergé chez Gitlab
+https://gitlab.com/sebby1/my-docker-compose
